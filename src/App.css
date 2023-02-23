@@ -1,0 +1,22 @@
+body{
+  background: linear-gradient(to right, #0026b0, #2b61e9);
+  color: #514B64;
+}
+
+.rounded-lg{
+  border-radius: 1rem !important;
+}
+
+.text-small{
+  font-size: 0.9rem;
+}
+
+.custom-seperator{
+  width: 5rem;
+  height: 6px;
+  border-radius: 1rem;
+}
+
+.text-uppercase{
+  letter-spacing:0.2rem ;
+}
